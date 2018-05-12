@@ -1,0 +1,26 @@
+_repo: John-Deere-s-Steel-Plow_34562
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 34562-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Kendall, Edward C.
+    gutenberg_agent_id: '37087'
+    url: http://www.gutenberg.org/2009/agents/37087
+description: ''
+gutenberg_bookshelf: Technology
+gutenberg_issued: '2010-12-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '34562'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'S'
+- !lcsh 'Plows'
+- !lcsh 'Deere, John, 1804-1886'
+title: John Deere's Steel Plow
+url: http://www.gutenberg.org/ebooks/34562
